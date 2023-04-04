@@ -26,7 +26,7 @@ The features importance of the final XGBoost model:
 Chatbot that is capable of creating bank accounts, checking their balance and performing transactions on these accounts. It is also capable of doing other non-financial related tasks such as answering FAQ questions and chitchat with users.
 
 The architecture of the project is illustrated below:
-<img src="assets/graph_docker.png?raw=true" />
+<img src="assets/graph_docker.jpg?raw=true" />
 
 A demonstration of how the bot works is shown below:
 <img src="assets/financial_bot.gif?raw=true" />
