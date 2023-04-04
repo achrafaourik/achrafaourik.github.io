@@ -26,6 +26,7 @@ Distribution of churn data relative to "registration_method":
 <b>The Feature Importance of the final XGBoost model:</b>
 <img src="assets/xgb_feat_importance.png?raw=true" />
 
+[View code on Github](https://github.com/achrafaourik/Churn-Prediction)
 ---
 ### Financial Helper Bot
 A chatbot that is capable of creating bank accounts, checking their balance and performing transactions on these accounts. It is also capable of doing other non-financial related tasks such as answering FAQ questions and chitchat with users.
@@ -35,3 +36,5 @@ The architecture of the project is illustrated below:
 
 A demonstration of how the bot works is shown below:
 <img src="assets/financial_bot.gif?raw=true" />
+
+[View code on Github](https://github.com/achrafaourik/chatbot_rasa)
