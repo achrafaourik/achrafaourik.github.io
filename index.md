@@ -1,4 +1,4 @@
-## Selected projects in data science and machine learning
+## Personal projects in data science and machine learning
 
 ---
 ### Churn detection project
