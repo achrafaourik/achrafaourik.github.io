@@ -7,20 +7,20 @@ In this project, I performed all of the steps in a machine learning worfklow: <b
 feature engineering, modeling (supervised and clustering) and model evaluation.</b>
 I was able to create a highly accurate classification model that is able to accurately <b>predict which clients are more likely to churn.</b>
 
-<b>A select few of the EDA performed comparing the two profiles or churners and loyal subscribers:</b>
+<b>Some select graphs of the EDA performed comparing the two profiles or churners and loyal subscribers:</b>
 
 Distribution of churn data relative to "auto_renew":
 <img src="assets/auto_renew.png?raw=true" />
 Distribution of churn data relative to "registration_method":
 <img src="assets/registration_method.png?raw=true" />
 
-<b>Clusters centroids generated after performing clustering on client data:</b>
+<b>Clusters centroids generated after performing clustering:</b>
 <img src="assets/clusters_centroids.png?raw=true" />
 
-<b>2D Visualization using PCA for clusters visualization</b>
+<b>2D Visualization of the clusters using PCA:</b>
 <img src="assets/pca_kmeans.png?raw=true" />
 
-<b>The evolution of performance after every iteration of improvement:</b>
+<b>The evolution of performance after every iteration:</b>
 <img src="assets/evolution_iterations.png?raw=true" />
 
 <b>The Feature Importance of the final XGBoost model:</b>
@@ -28,7 +28,7 @@ Distribution of churn data relative to "registration_method":
 
 ---
 ### Financial Helper Bot
-Chatbot that is capable of creating bank accounts, checking their balance and performing transactions on these accounts. It is also capable of doing other non-financial related tasks such as answering FAQ questions and chitchat with users.
+A chatbot that is capable of creating bank accounts, checking their balance and performing transactions on these accounts. It is also capable of doing other non-financial related tasks such as answering FAQ questions and chitchat with users.
 
 The architecture of the project is illustrated below:
 <img src="assets/graph_docker.jpg?raw=true" />
