@@ -1,11 +1,20 @@
 title: Achraf Aourik # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description
+  With 3+ years of experience working as a data scientist with
+  a strong background in statistics, analytical modeling and
+  programming, I aim to develop accurate machine learning
+  applications and synthesizing their insights in a concise and
+  robust story for presentation to stakeholders and clients and
+  therefore help them achieve their business goals, business
+  efficiency and increasting profits.
   <br><br>
-  Second description
+  2X AWS Certified : <a href="https://www.credly.com/badges/13746500-46de-4be1-8fdd-8920aa9444d0">Cloud Practioner</a> and
+  <a href="https://www.credly.com/badges/aa2eced2-a531-434f-a269-95f0e17576d3">Machine Learning Specialization</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/achrafaourik/">View My LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/achrafaourik">View My Github Profile</a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
