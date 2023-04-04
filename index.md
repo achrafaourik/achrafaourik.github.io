@@ -21,10 +21,10 @@ Distribution of churn data relative to "registration_method":
 <img src="assets/pca_kmeans.png?raw=true" class="center" height="450"/>
 
 <b>The evolution of performance after every iteration:</b>
-<img src="assets/evolution_iterations.png?raw=true" class="center" height="450"/>
+<img src="assets/evolution_iterations.png?raw=true" class="center" height="550"/>
 
 <b>The Feature Importance of the final XGBoost model:</b>
-<img src="assets/xgb_feat_importance.png?raw=true" class="center" height="550"/>
+<img src="assets/xgb_feat_importance.png?raw=true" class="center" height="400"/>
 
 [View code on Github](https://github.com/achrafaourik/Churn-Prediction)
 
