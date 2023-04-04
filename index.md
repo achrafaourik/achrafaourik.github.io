@@ -27,6 +27,7 @@ Distribution of churn data relative to "registration_method":
 <img src="assets/xgb_feat_importance.png?raw=true" />
 
 [View code on Github](https://github.com/achrafaourik/Churn-Prediction)
+
 ---
 ### Financial Helper Bot
 A chatbot that is capable of creating bank accounts, checking their balance and performing transactions on these accounts. It is also capable of doing other non-financial related tasks such as answering FAQ questions and chitchat with users.
