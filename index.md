@@ -7,18 +7,23 @@ In this project, I performed all of the steps in a machine learning worfklow: <b
 feature engineering, modeling (supervised and clustering) and model evaluation.</b>
 I was able to create a highly accurate classification model that is able to accurately <b>predict which clients are more likely to churn.</b>
 
-A select few of the EDA performed comparing the two profiles or churners and loyal subscribers:
+<b>A select few of the EDA performed comparing the two profiles or churners and loyal subscribers:</b>
+
+Distribution of churn data relative to "auto_renew":
 <img src="assets/auto_renew.png?raw=true" />
+Distribution of churn data relative to "registration_method":
 <img src="assets/registration_method.png?raw=true" />
 
-I have also performed clustering on the listening behavior of clients:
+<b>Clusters centroids generated after performing clustering on client data:</b>
 <img src="assets/clusters_centroids.png?raw=true" />
+
+<b>2D Visualization using PCA for clusters visualization</b>
 <img src="assets/pca_kmeans.png?raw=true" />
 
-The evolution of performance after every iteration of improvement:
+<b>The evolution of performance after every iteration of improvement:</b>
 <img src="assets/evolution_iterations.png?raw=true" />
 
-The features importance of the final XGBoost model:
+<b>The Feature Importance of the final XGBoost model:</b>
 <img src="assets/xgb_feat_importance.png?raw=true" />
 
 ---
