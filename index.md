@@ -1,6 +1,19 @@
 ## Personal projects in data science and machine learning
 
 ---
+### DocChat
+This project aims to give a choice about whether the user would like to leverage ChatGPT or use an OpenSource LLM to answer the questions.
+
+The objective is to provide these AI models with access to a rich database of internal documents and allow them to retrieve the most relevant pieces of text in response to user queries.
+
+The system leverages advanced text retrieval and information ranking mechanisms to sift through a vast array of internal documents. Using the provided context, the system discerns user intent and identifies the most pertinent documents. These documents are then processed, extracting the most appropriate segments that can provide the user with the most accurate and comprehensive answer.
+
+<img src="assets/ChatGPT_logo.svg.png?raw=true" class="center" height="450"/>
+<img src="assets/hf-logo-with-title.png?raw=true" class="center" />
+
+[View code on Github](https://github.com/achrafaourik/langchain_llm_chromadb)
+
+---
 ### Churn detection project
 Conducted extensive analysis on real-world data of Taiwan's leading music streaming platform.
 In this project, I performed all of the steps in a machine learning worfklow: <b>data cleaning, exploratory data analysis,
