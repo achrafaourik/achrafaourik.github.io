@@ -8,8 +8,8 @@ The objective is to provide these AI models with access to a rich database of in
 
 The system leverages advanced text retrieval and information ranking mechanisms to sift through a vast array of internal documents. Using the provided context, the system discerns user intent and identifies the most pertinent documents. These documents are then processed, extracting the most appropriate segments that can provide the user with the most accurate and comprehensive answer.
 
-<img src="assets/ChatGPT_logo.svg.png?raw=true" class="center" height="450"/>
-<img src="assets/hf-logo-with-title.png?raw=true" class="center" />
+<img src="assets/ChatGPT_logo.svg.png?raw=true" class="center" height="100"/>
+<img src="assets/hf-logo-with-title.png?raw=true" class="center" height="100"/>
 
 [View code on Github](https://github.com/achrafaourik/langchain_llm_chromadb)
 
